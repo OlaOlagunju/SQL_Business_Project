@@ -25,4 +25,9 @@ When considering countries for which to expand marketing efforts in, it makes se
 
 Also, we have figured out that album sales make up 19% of all sales but, most importantly, 31% of total revenue. For this reason, it is not recommended to eliminate whole albums from Chinook in favor of single tracks only. Doing so can potentially lead to a loss of a fifth of revenue.
 
+![](https://github.com/OlaOlagunju/SQL_Business_Project/blob/main/fig_4.png)
+
+We also recommended for Chinook to find the most popular tracks in each genre and diversify their store selection to boost sales even more.
+
 ![](https://github.com/OlaOlagunju/SQL_Business_Project/blob/main/fig_5.png)
+
