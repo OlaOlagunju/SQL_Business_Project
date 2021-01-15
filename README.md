@@ -3,7 +3,7 @@
 [Full Project Link](https://github.com/OlaOlagunju/SQL_Business_Project/blob/main/Full%20Project%20-%20Data%20Analysis%20using%20SQL%20to%20guide%20Business%20decisions%20for%20Chinook.ipynb)
 
 ## Summary
-The aim of this project was to explore a modified version of the Chinook database using SQL and answer some business questions. The Chinook database represents a fictional digital media shop, based on real data from an iTunes Library and manually generated data. The database is provided as a SQLite database file called 'chinook.db'. It contains information about employees, customers, purchases, and everything to do with the tracks that are on the platform (artists, albums, genres, playlists, etc.).
+The aim of this project was to explore a modified version of the Chinook database using SQL and answer some business questions. The database is provided as a SQLite database file called 'chinook.db'. It contains information about employees, customers, purchases, and everything to do with the tracks that are on the platform (artists, albums, genres, playlists, etc.).
 
 We answered the following questions:
 - Top music genres sold in USA
